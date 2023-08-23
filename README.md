@@ -1,6 +1,7 @@
+**luquitious23** /README.md
+
 ### Hi there 👋
 
-**luquitious23/LUQUITIOUS23** 
 
 - 🔭 I’m currently working on a guide me project
 - 🌱 I’m currently learning Django
